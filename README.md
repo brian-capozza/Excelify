@@ -225,14 +225,6 @@ Main workbook manager.
 - **Project Management**: Resource allocation and timeline tracking
 - **Sales Analytics**: Territory performance and product analysis
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👤 Author
 
 Brian Capozza
@@ -242,10 +234,6 @@ Brian Capozza
 Built with:
 - [xlsxwriter](https://xlsxwriter.readthedocs.io/) - Excel file creation
 - [pandas](https://pandas.pydata.org/) - Data manipulation
-
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub.
 
 ---
 
